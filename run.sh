@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Change to the proper directory
-cd /home/curtisginsbe/leptonic_modelling_git
-
 # Fit the spectrum
 python fit_flux.py
 
